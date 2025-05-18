@@ -73,4 +73,12 @@ for(let i=0;i< friends.length;i++){
     console.log(friends[i]);
 }
 
+console.log("============================");
+
+for(let i=1; i <= 30; i++){
+    if(i % 4 ==0){
+        console.log(i + " Adalah Bilangan Genap");
+    }
+}
+
 
